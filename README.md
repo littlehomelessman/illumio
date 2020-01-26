@@ -78,7 +78,7 @@ Since we sort the IPs, we must come up with a comparator among IP addresses as w
  ![](/compare.png)
  <p align=center>Fig.2
  
-## Team that I&#39;m interested:
+## Team(s) that I&#39;m interested in:
 
 Most interested → Less interested
 
